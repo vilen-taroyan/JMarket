@@ -1,4 +1,4 @@
-[![CI](https://github.com/dfhzjkq/JMarket/actions/workflows/ci.yml/badge.svg)](https://github.com/dfhzjkq/JMarket/actions/workflows/ci.yml)
+[![CI](https://github.com/vilen-taroyan/JMarket/actions/workflows/ci.yml/badge.svg)](https://github.com/vilen-taroyan/JMarket/actions/workflows/ci.yml)
 
 # JMarket
 
@@ -52,7 +52,7 @@ Backend маркетплейса объявлений — упрощённый �
 Нужен только Docker.
 
 ```bash
-git clone https://github.com/dfhzjkq/JMarket.git
+git clone https://github.com/vilen-taroyan/JMarket.git
 cd JMarket
 cp .env.example .env
 ```
